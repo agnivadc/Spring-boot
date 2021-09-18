@@ -1,0 +1,5 @@
+#mac os files
+.DS_store
+
+#metadata files
+.metadata
